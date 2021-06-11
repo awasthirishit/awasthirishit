@@ -41,4 +41,6 @@ Thank You for taking the time to view my GitHub Profile 🙂:
 <a href = 'https://www.instagram.com/awasthirishit'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/instagram-glyph-1.svg"/></a> 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=awasthirishit&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=awasthirishit&color=brightgreen)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasthirishit&theme=tokyonight)
+
