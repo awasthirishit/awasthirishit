@@ -1,13 +1,13 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-Hi! I am Rishit , a Robotics Enthusiast while being an Android Developer.I love to explore the fields which excites my curiosity.
+Hi! I am Rishit , a Robotics Enthusiast while being an Android Developer. I love to explore the fields which excites my curiosity.
 <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif">
 Thank You for taking the time to view my GitHub Profile 🙂: 
   
 <h2> About Me <img width ='70px' align='center' src ='https://media.tenor.com/images/961415eb6dae57b4cebca656617398a9/tenor.gif'></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mkhairi/undraw/master/vendor/assets/images/undraw/artificial_intelligence.svg" />
 
-- 🔭 I’m currently learning Kotlin Koans , Coroutines, Binding, LiveData, Room, DataStore, Paging, Clean Architecture, Dagger, Hilt, Koin.
+- 🔭 I’m currently learning Kotlin Coroutines, Binding, LiveData, Room, DataStore, Paging, Clean Architecture, Dagger, Hilt, Koin.
 
 - 🌱 I’m currently exploring Robotics (Path planning , Navigation and SLAM) & Android Development (Kotlin).
 
